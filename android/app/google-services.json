@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "861320019042",
+    "project_id": "phoneauth-d4142",
+    "storage_bucket": "phoneauth-d4142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861320019042:android:6551f7c9e8c9f39bb0653b",
+        "android_client_info": {
+          "package_name": "com.myphoneauthentication123987555"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861320019042-7824qlotofcmts8h71u1m775d29en83q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myphoneauthentication123987555",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "861320019042-a96rghkrqceaejbgn9012a181tmnqscc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYLW4rfSDOG3jfgCYIyecwkfEOITEmMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861320019042-a96rghkrqceaejbgn9012a181tmnqscc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861320019042:android:146af035405dec97b0653b",
+        "android_client_info": {
+          "package_name": "com.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861320019042-a96rghkrqceaejbgn9012a181tmnqscc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYLW4rfSDOG3jfgCYIyecwkfEOITEmMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861320019042-a96rghkrqceaejbgn9012a181tmnqscc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
